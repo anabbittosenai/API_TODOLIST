@@ -1,2 +1,5 @@
-package br.com.todolist;public enum Enum {
+package br.com.todolist;
+
+public enum StatusEnum {
+    NOT_STARTED, IN_PROGRESS, FINISHED
 }
